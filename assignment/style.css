@@ -4,37 +4,35 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-body
-{
+
+body {
     background: #09e4bfbd;
 }
-body header
-{
+
+body header {
     background: #1510ad;
 }
-body footer
-{
+
+body footer {
     background: #e4d207;
 }
-h1
-{
+
+h1 {
     text-align: center;
-}
-p
-{
+} 
+
+p {
     font-style: italic;
     color: #f34105bd;
 }
-img
-{
+
+img {
     border: 5px solid #555;
 }
-ul li
-{
+
+ul li {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     list-style: none;
-    
-
 }
 /* Give your page a fun background color */
 
