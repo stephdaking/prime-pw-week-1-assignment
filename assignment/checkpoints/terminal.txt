@@ -13,13 +13,13 @@ cd ..
 mkdir nameofthefolder
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-An empty folder would not show any results. If it contains files it would show the file name and type.
+An empty folder would not show any results. If it contains files it would show the file name and type. It would also show other directories.
 
 # 6 - What is a quick way to create a new file?
 touch nameofthefile
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-2.36.0
+git version 2.36.0 (Apple Git-128)
 
 # 8 - Why would you run the command 'git status'?
 git status will show any of the changes that have been made. If they have not been added they will show red. If they show green they have been added and are ready to comit.
